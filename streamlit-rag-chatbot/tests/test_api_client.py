@@ -1,1 +1,0 @@
-# Tests básicos para api_client 
